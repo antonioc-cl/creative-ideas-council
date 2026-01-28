@@ -15,7 +15,7 @@ Expert experiences council with 6 advisors for events, experiences, space activa
 
 ### Claude Code
 ```bash
-/plugin add https://github.com/TOPAiiN/creative-ideas-council
+/plugin add https://github.com/antonioc-cl/creative-ideas-council
 ```
 
 ### Claude.ai
