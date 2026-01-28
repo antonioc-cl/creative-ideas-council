@@ -13,6 +13,11 @@ Expert experiences council with 6 advisors for events, experiences, space activa
 
 ## Installation
 
+### npx skills add (recommended)
+```bash
+npx skills add antonioc-cl/creative-ideas-council
+```
+
 ### Claude Code
 ```bash
 /plugin add https://github.com/antonioc-cl/creative-ideas-council
